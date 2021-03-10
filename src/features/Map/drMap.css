@@ -1,0 +1,22 @@
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.map-menu {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 6px;
+  background-color: white;
+  /* font-size: 3rem; */
+}
+
+.map-menu button {
+  /* padding: 0; */
+  font-size: 2rem;
+  border: none;
+  /* background: none; */
+}
